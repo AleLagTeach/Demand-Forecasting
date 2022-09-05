@@ -1,0 +1,6 @@
+matplotlib
+matplotlib-inline
+numpy
+pandas
+statsmodels
+seaborne
